@@ -8,6 +8,6 @@
         
     });
     console.log(numbers);
-    console.log(doubledNumber);
+    console.log(doubledNumber); 
 
     
